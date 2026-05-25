@@ -1,0 +1,6 @@
+{
+  "name": "Saguni Gaming Cafe",
+  "description": "Elite Gaming Lounge booking reservation application with real-time rate estimation, persistent slots tracking, and interactive rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
